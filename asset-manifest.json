@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/homepage/static/css/main.c190e1f9.chunk.css",
+    "main.js": "/homepage/static/js/main.72b2a11c.chunk.js",
+    "main.js.map": "/homepage/static/js/main.72b2a11c.chunk.js.map",
+    "runtime-main.js": "/homepage/static/js/runtime-main.f1af4ede.js",
+    "runtime-main.js.map": "/homepage/static/js/runtime-main.f1af4ede.js.map",
+    "static/css/2.7101a1b0.chunk.css": "/homepage/static/css/2.7101a1b0.chunk.css",
+    "static/js/2.30d2ab7c.chunk.js": "/homepage/static/js/2.30d2ab7c.chunk.js",
+    "static/js/2.30d2ab7c.chunk.js.map": "/homepage/static/js/2.30d2ab7c.chunk.js.map",
+    "index.html": "/homepage/index.html",
+    "precache-manifest.61d281604700bc60a8045ec1bd714729.js": "/homepage/precache-manifest.61d281604700bc60a8045ec1bd714729.js",
+    "service-worker.js": "/homepage/service-worker.js",
+    "static/css/2.7101a1b0.chunk.css.map": "/homepage/static/css/2.7101a1b0.chunk.css.map",
+    "static/css/main.c190e1f9.chunk.css.map": "/homepage/static/css/main.c190e1f9.chunk.css.map",
+    "static/js/2.30d2ab7c.chunk.js.LICENSE.txt": "/homepage/static/js/2.30d2ab7c.chunk.js.LICENSE.txt",
+    "static/media/SauceEdgeAuth.jpg": "/homepage/static/media/SauceEdgeAuth.7aca8439.jpg",
+    "static/media/SauceEdgeMenu.jpg": "/homepage/static/media/SauceEdgeMenu.2bc4a968.jpg",
+    "static/media/SauceEdgeOrderCon.jpg": "/homepage/static/media/SauceEdgeOrderCon.0a9afb1a.jpg",
+    "static/media/SauceEdgePayment.jpg": "/homepage/static/media/SauceEdgePayment.b55f49d7.jpg",
+    "static/media/SauceEdgeSideDrawer.jpg": "/homepage/static/media/SauceEdgeSideDrawer.ff006163.jpg",
+    "static/media/bg.jpg": "/homepage/static/media/bg.c315b619.jpg",
+    "static/media/eatseasy1.jpg": "/homepage/static/media/eatseasy1.27897f18.jpg",
+    "static/media/eatseasy2.jpg": "/homepage/static/media/eatseasy2.420eb787.jpg",
+    "static/media/eatseasy3.jpg": "/homepage/static/media/eatseasy3.c196001b.jpg",
+    "static/media/eatseasy4.jpg": "/homepage/static/media/eatseasy4.10b6efb2.jpg",
+    "static/media/eatseasy5.jpg": "/homepage/static/media/eatseasy5.11cad326.jpg",
+    "static/media/portfolio1.jpg": "/homepage/static/media/portfolio1.f96b5bd2.jpg",
+    "static/media/projects-bg.jpg": "/homepage/static/media/projects-bg.91cc680a.jpg",
+    "static/media/vision1.jpg": "/homepage/static/media/vision1.becff13b.jpg",
+    "static/media/vision2.jpg": "/homepage/static/media/vision2.ef2f1418.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1af4ede.js",
+    "static/css/2.7101a1b0.chunk.css",
+    "static/js/2.30d2ab7c.chunk.js",
+    "static/css/main.c190e1f9.chunk.css",
+    "static/js/main.72b2a11c.chunk.js"
+  ]
+}
