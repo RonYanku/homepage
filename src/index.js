@@ -3,6 +3,17 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+import AOS from 'aos';
+import 'aos/dist/aos.css';
+
+import 'bootstrap/dist/css/bootstrap.min.css';
+
+
+// AOS produces fade in effect on elements
+AOS.init({
+  duration: 1000,
+  offset: 0,
+});
 
 ReactDOM.render(
   <React.StrictMode>
