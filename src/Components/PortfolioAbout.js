@@ -52,17 +52,18 @@ const PortfolioAbout = () => {
               <strong> Backend: </strong> 
               <Badge variant="dark">Node</Badge> &nbsp;
               <Badge variant="dark">Express</Badge> &nbsp;
-              <Badge variant="dark">MongoDB</Badge> &nbsp;
-              <Badge variant="dark">PostregSQL</Badge> &nbsp; 
               <Badge variant="dark">Spring (Java)</Badge>
             </p>
             <p>
             <strong> Other </strong> 
               <Badge variant="dark">Java</Badge> &nbsp;
+              <Badge variant="dark">MongoDB</Badge> &nbsp;
+              <Badge variant="dark">PostregSQL</Badge> &nbsp;
               <Badge variant="dark">Firebase</Badge> &nbsp;
-              <Badge variant="dark">Google Cloud</Badge> &nbsp;
+              <Badge variant="dark">Heroku</Badge> &nbsp;
               <Badge variant="dark">CI/CD</Badge> &nbsp;
               <Badge variant="dark">Git</Badge> &nbsp;
+
             </p>
       </Container>
     </div>

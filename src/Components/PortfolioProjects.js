@@ -106,8 +106,8 @@ const PortfolioProjects = () => {
                   images = {PortfolioImages}
                   title = "Developer Portfolio"
                   description = "This online portfolio is a place to display my projects and allow anyone to easily send me a message."
-                  github = "https://github.com/"
-                  link = "https://com/"
+                  github = "https://github.com/RonYanku/homepage"
+                  link = "https://ronyanku.github.io/homepage/"
                   modal = "This online portfolio is a place to display my projects and allow anyone to easily send me a message. It is built using React and Node.js."
                   badges = {portfolioBadges}
               />
@@ -115,8 +115,8 @@ const PortfolioProjects = () => {
                   images = {SauceEdgeImages}
                   title = "Sauce Edge"
                   description = "A sausage restaurant app. you can authenticate, browse the menu, then order."
-                  github = "https://github.com/"
-                  link = "https://com/"
+                  github = "https://github.com/RonYanku/SauceEdge"
+                  link = "https://sauce-edge.web.app/"
                   modal = "A sausage restaurant app. you can authenticate, browse the menu, then order."
                   badges = {SauceEdgeBadges}
               />
@@ -124,17 +124,17 @@ const PortfolioProjects = () => {
                   images = {EatsEasyImages}
                   title = "Eats Easy"
                   description = "EatsEasy is a system that connects clients and restaurants, and makes life easier for both."
-                  github = "https://github.com/"
-                  link = "https://com/"
+                  github = "https://github.com/orgs/eats-easy/dashboard"
+                  
                   modal = "EatsEasy is a system that connects clients and restaurants. It helps clients to find the place to eat in, and place an order,track it from anywhere, and pay instantly. It helps restaurant’s staff manage order queues, keeping the menu updated and serving clients the best way they can"
                   badges = {EatsEasyBadges}
               />
               <Project
                   images = {Vision2020Images}
                   title = "Vision 2020"
-                  description = "A sausage restaurant app. you can authenticate, browse the menu, then order."
-                  github = "https://github.com/"
-                  link = "https://com/"
+                  description = "An Angular app that lets you create posts in lists for future reference."
+                  github = "https://github.com/Visi0n2020"
+                  link = "https://vision-2020-ab267.firebaseapp.com/login"
                   modal = "An Angular app that lets you create posts in lists for future reference"
                   badges = {Vision2020Badges}
               />
