@@ -58,7 +58,7 @@ const PortfolioAbout = () => {
             <strong> Other </strong> 
               <Badge variant="dark">Java</Badge> &nbsp;
               <Badge variant="dark">MongoDB</Badge> &nbsp;
-              <Badge variant="dark">PostregSQL</Badge> &nbsp;
+              <Badge variant="dark">PostgreSQL</Badge> &nbsp;
               <Badge variant="dark">Firebase</Badge> &nbsp;
               <Badge variant="dark">Heroku</Badge> &nbsp;
               <Badge variant="dark">CI/CD</Badge> &nbsp;
