@@ -95,9 +95,9 @@ class Project extends React.Component {
                   )}
                   {/* <Badge variant="dark">{this.state.modalBadges}</Badge> */}
                 </p>
-                {this.props.link ? <Button className="mt-auto" href={this.state.projectLink} block size="sm" variant="success">Live Version</Button> 
+                <Button href={this.state.projectGithub} className="mt-auto" block size="sm" variant="primary">GitHub</Button>
+                {this.props.link ? <Button  href={this.state.projectLink} block size="sm" variant="success">Live Version</Button> 
                 : null}
-                <Button href={this.state.projectGithub} block size="sm" variant="primary">GitHub</Button>
               </Col>
 
             </Row>
