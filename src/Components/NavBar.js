@@ -10,7 +10,7 @@ const NavBar = () => {
         <Navbar id="dark-navbar" fixed="top" bg="dark" variant="dark" data-aos="fade-in">
           <Nav className="ml-auto mr-auto">
             <Nav.Link className="text-white" href="#title-section"><span className="tab-space">Top</span></Nav.Link>
-            <Nav.Link className="text-white" href="#about-section"><span className="tab-space">About me</span></Nav.Link>
+            <Nav.Link className="text-white" href="#about-section"><span className="tab-space">About</span></Nav.Link>
             <Nav.Link className="text-white" href="#project-section"><span className="tab-space">Projects</span></Nav.Link>
             <Nav.Link className="text-white" href="#contact-section"><span className="tab-space">Contact</span></Nav.Link>
           </Nav>
