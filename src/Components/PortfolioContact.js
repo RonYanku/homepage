@@ -35,7 +35,7 @@ class PortfolioContact extends React.Component {
         >
       <div id="contact-section" data-aos="fade-in">
         <Container className="text-center" id="contact-content">
-          <h1 className="display-4" id="contact-headline">Contact</h1>
+          <h1 className="display-4" id="contact-headline">Contact me</h1>
           <hr className="mb-5" id="contact-hr"/>
 
           <Card className="pb-3 pt-3 mr-auto ml-auto" id="contact-card">
