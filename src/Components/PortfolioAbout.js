@@ -37,8 +37,6 @@ const PortfolioAbout = () => {
           I build full stack web applications using effective, minimalist designs.
           I will finish my BSc in Computer Science at the Open University in Israel this semester
           And am available for a full time software development position.
-          Take a look at my <a href="#project-section">projects</a> to learn more.
-          Feel free to <a href="#contact-section">contact</a> me at any time.
         </p>
         <br/>
         <h2 className="text-center"><strong>Skills</strong></h2>
