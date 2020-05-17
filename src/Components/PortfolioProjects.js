@@ -52,6 +52,7 @@ const EatsEasyBadges = [
 
 const Vision2020Badges = [
   "Javascript",
+  "Typescript",
   "Angular",
   "NgRx",
   "Node",

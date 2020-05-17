@@ -35,6 +35,8 @@ const PortfolioAbout = () => {
         <hr id="about-hr"/>
         <p>
           I build full stack web applications using effective, minimalist designs.
+          I will finish my BSc in Computer Science at the Open University in Israel this semester
+          And am available for a full time software development position.
           Take a look at my <a href="#project-section">projects</a> to learn more.
           Feel free to <a href="#contact-section">contact</a> me at any time.
         </p>
@@ -43,7 +45,6 @@ const PortfolioAbout = () => {
         <br/>
             <p>
               <strong> Frontend: </strong> 
-              <Badge variant="dark"> Javascript (ES6+)</Badge> &nbsp;
               <Badge variant="dark">React</Badge> &nbsp;
               <Badge variant="dark">Angualr</Badge> &nbsp;
               <Badge variant="dark">CSS3/HTML5</Badge>
@@ -56,8 +57,10 @@ const PortfolioAbout = () => {
             </p>
             <p>
             <strong> Other </strong> 
+              <Badge variant="dark"> Javascript (ES6+)</Badge> &nbsp;
               <Badge variant="dark">Java</Badge> &nbsp;
               <Badge variant="dark">MongoDB</Badge> &nbsp;
+              <Badge variant="dark">Google Cloud</Badge> &nbsp;
               <Badge variant="dark">PostgreSQL</Badge> &nbsp;
               <Badge variant="dark">Firebase</Badge> &nbsp;
               <Badge variant="dark">Heroku</Badge> &nbsp;
