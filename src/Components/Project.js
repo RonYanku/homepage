@@ -68,7 +68,6 @@ class Project extends React.Component {
 
               <Col md={6} sm={12}>
                 <Carousel className="project-carousel">
-                {/* <div className="image-size"> */}
                   {this.props.images.map( (image) => 
                       <Carousel.Item>
                       <img
@@ -93,7 +92,6 @@ class Project extends React.Component {
                         {badge}
                         </Badge>
                   )}
-                  {/* <Badge variant="dark">{this.state.modalBadges}</Badge> */}
                 </p>
                 <Button href={this.state.projectGithub} className="mt-auto" block size="sm" variant="primary">GitHub</Button>
                 {this.props.link ? <Button  href={this.state.projectLink} block size="sm" variant="success">Live Version</Button> 

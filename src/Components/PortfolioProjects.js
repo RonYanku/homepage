@@ -22,69 +22,25 @@ import eatseasy5 from '../img/projects/eatseasy5.jpg'
 import vision1 from '../img/projects/vision1.jpg'
 import vision2 from '../img/projects/vision2.jpg'
 
-const portfolioBadges = [
-  "Javascript",
-  "React",
-  "Bootstrap"
-]
+const portfolioBadges = ["Javascript", "React", "Bootstrap"]
 
-const SauceEdgeBadges = [
-  "Javascript",
-  "React",
-  "Hooks",
-  "Redux",
-  "Firebase",
-  "Axios",
-  "Stripe",
-  "Bootstrap",
-]
+const SauceEdgeBadges = ["Javascript", "React", "Hooks", "Redux", "Firebase",
+  "Axios", "Stripe", "Bootstrap"]
 
-const EatsEasyBadges = [
-  "Java",
-  "Spring",
-  "Hibernate",
-  "PostgreSQL",
-  "Javascript",
-  "React Native",
-  "CI/CD",
-  "Heroku"
-]
+const EatsEasyBadges = [ "Java", "Spring", "Hibernate", "PostgreSQL", "Javascript",
+  "React Native", "CI/CD", "Heroku"]
 
-const Vision2020Badges = [
-  "Javascript",
-  "Typescript",
-  "Angular",
-  "NgRx",
-  "Node",
-  "Express",
-  "MongoDB",
-  "Mongoose"
-]
+const Vision2020Badges = [ "Javascript", "Typescript", "Angular", "NgRx",
+  "Node", "Express", "MongoDB", "Mongoose"]
 
-const EatsEasyImages = [
-  eatseasy1,
-  eatseasy2,
-  eatseasy3,
-  eatseasy4,
-  eatseasy5
-]
+const EatsEasyImages = [ eatseasy1, eatseasy2, eatseasy3, eatseasy4, eatseasy5]
 
-const Vision2020Images = [
-  vision1,
-  vision2
-]
+const Vision2020Images = [ vision1, vision2]
 
-const PortfolioImages = [
-  portfolio1
-]
+const PortfolioImages = [portfolio1]
 
-const SauceEdgeImages = [
-  SauceEdgeMenu,
-  SauceEdgeAuth,
-  SauceEdgeOrderCon,
-  SauceEdgePayment,
-  SauceEdgeSideDrawer
-]
+const SauceEdgeImages = [ SauceEdgeMenu, SauceEdgeAuth, SauceEdgeOrderCon,
+  SauceEdgePayment, SauceEdgeSideDrawer]
 
 const PortfolioProjects = () => {
   // Show row of Project components
@@ -146,6 +102,5 @@ const PortfolioProjects = () => {
     </div>
   )
 }
-
 
 export default PortfolioProjects;

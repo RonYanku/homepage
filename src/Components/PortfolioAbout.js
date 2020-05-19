@@ -2,30 +2,12 @@ import React from 'react';
 import Container from 'react-bootstrap/Container';
 import Badge from 'react-bootstrap/Badge';
 
+const FrontendBadges = ["React", "Angular", "CSS3/HTML5"];
+const BackendBadges = ["Node", "Express", "Spring (Java)"];
+const OtherBadges = ["Javascript(ES6+", "Java", "MongoDB", "Google Cloud",
+                    "PostgreSQL", "Firebase", "Heroku", "CI/CD", "Git" ];
 
 const PortfolioAbout = () => {
-
-  const FrontendSkills = [ 
-    'React',
-    'Angular',
-    'CSS3/HTML5'
-  ]
-
-  const BackendSkills = [ 
-    'Node',
-    'Express',
-    'MongoDB',
-    'MongoDB',
-    'PostgreSQL'
-  ]
-
-  const Other  = [ 
-    'Java',
-    'Spring',
-    'Git',
-    'Firebase',
-    'CI/CD'
-  ]
 
   return (
     <div id="about-section" data-aos="fade-in">
@@ -43,28 +25,30 @@ const PortfolioAbout = () => {
         <br/>
             <p>
               <strong> Frontend: </strong> 
-              <Badge variant="dark">React</Badge> &nbsp;
-              <Badge variant="dark">Angualr</Badge> &nbsp;
-              <Badge variant="dark">CSS3/HTML5</Badge>
+              {FrontendBadges.map((badge) => 
+              <a>
+              <Badge variant="dark"> {badge} </Badge> 
+              &nbsp;
+              </a>
+              )}
             </p>
             <p>
               <strong> Backend: </strong> 
-              <Badge variant="dark">Node</Badge> &nbsp;
-              <Badge variant="dark">Express</Badge> &nbsp;
-              <Badge variant="dark">Spring (Java)</Badge>
+              {BackendBadges.map((badge) => 
+                <a>
+                <Badge variant="dark"> {badge} </Badge> 
+                &nbsp;
+                </a>
+                )}
             </p>
             <p>
             <strong> Other </strong> 
-              <Badge variant="dark"> Javascript (ES6+)</Badge> &nbsp;
-              <Badge variant="dark">Java</Badge> &nbsp;
-              <Badge variant="dark">MongoDB</Badge> &nbsp;
-              <Badge variant="dark">Google Cloud</Badge> &nbsp;
-              <Badge variant="dark">PostgreSQL</Badge> &nbsp;
-              <Badge variant="dark">Firebase</Badge> &nbsp;
-              <Badge variant="dark">Heroku</Badge> &nbsp;
-              <Badge variant="dark">CI/CD</Badge> &nbsp;
-              <Badge variant="dark">Git</Badge> &nbsp;
-
+               {OtherBadges.map((badge) => 
+                <a>
+                <Badge variant="dark"> {badge} </Badge> 
+                &nbsp;
+                </a>
+                )}
             </p>
       </Container>
     </div>

@@ -6,7 +6,6 @@ import { Parallax } from 'react-parallax';
 
 class PortfolioContact extends React.Component {
 
-  // State not needed, but I like the idea of controlled inputs
   state = {
     name: '',
     email: '',

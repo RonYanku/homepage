@@ -1,12 +1,4 @@
 
-/* :root {
-  --border-radius: 6px;
-  --color-primary: rgb(39, 164, 254);
-  --color-background: var(--color-primary);
-  --color-background-active: rgb(39, 148, 235);
-  --color-border: rgb(22, 110, 170);
-} */
-
 *,
 *:after,
 *:before {
@@ -35,66 +27,11 @@ body {
 }
 
 .skills {
-  /* align-items: center; */
   align-content: center;
-  /* align-items: center; */
-  /* width: 90%; */
   padding: 10%;
   margin: 10%;
-  /* border-bottom: 1px solid #ccc; */
-  /* color: var(--color-primary); */
   text-align: center;
-  /* margin-bottom: 40px;
-  padding-bottom: 40px; */
-  /* grid-template-columns: repeat(3, 20px [col-start]); */
-  /* display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-flow: row wrap;
-  align-content: center; */
 }
-
-/* .skill {
-  flex: 1 0 21%;
-  margin: 5px;
-  height: 100px;
-  background-color: blue;
-} */
-
-
-  /* display: flex; */
-  /* flex-direction: row; */
-  /* justify-content: center;
-    align-items: center;
-    flex-flow: column wrap;
-    align-content: stretch; */
-
-
-
-
-
-
-/* 
-.demo-container {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-
-  flex-flow: column wrap;
-  align-content: center;
-
-
-  padding: 40px;
-  border-bottom: 1px solid #ccc;
-  color: var(--color-primary);
-  margin-bottom: 40px;
-  padding-bottom: 40px;
-} */
-
-
-
-
 
 
 .title-done-btn {
@@ -340,11 +277,6 @@ html {
   max-width: 900px !important;
 }
 
-.project-carousel {
-  /* border-style: solid;
-  border-color: lightgrey;
-  border-width: 1px; */
-}
 
 /* Contact section */
 #contact-section {
