@@ -65,7 +65,7 @@ const PortfolioProjects = () => {
                   description = "This online portfolio is a place to display my projects and allow anyone to easily send me a message."
                   github = "https://github.com/RonYanku/homepage"
                   link = "https://ronyanku.github.io/homepage/"
-                  modal = "This online portfolio is a place to display my projects and allow anyone to easily send me a message. It is built using React and Node.js."
+                  modal = "This online portfolio is a place to display my projects and allow anyone to easily send me a message. It is built using React"
                   badges = {portfolioBadges}
               />
               <Project
