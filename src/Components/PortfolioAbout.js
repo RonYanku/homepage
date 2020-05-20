@@ -17,7 +17,7 @@ const PortfolioAbout = () => {
         <hr id="about-hr"/>
         <p>
           I build full stack web applications using effective, minimalist designs.
-          I am currently finishing my BS.c in Computer Science at the Open University
+          I will finish my BSc in Computer Science at the Open University in June 2020
           And am available for a full time software development position.
         </p>
         <br/>
