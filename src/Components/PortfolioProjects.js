@@ -80,7 +80,7 @@ const PortfolioProjects = () => {
               <Project
                   images = {EatsEasyImages}
                   title = "Eats Easy"
-                  description = "EatsEasy is a system that connects clients and restaurants, and makes life easier for both.  Built with Spring (Java) and React Native"
+                  description = "EatsEasy is a system that connects clients and restaurants, and makes life easier for both. Built with Spring (Java) and React Native"
                   github = "https://github.com/orgs/eats-easy/dashboard"
                   
                   modal = "EatsEasy is a system that connects clients and restaurants. It helps clients to find the place to eat in, and place an order,track it from anywhere, and pay instantly. It helps restaurant’s staff manage order queues, keeping the menu updated and serving clients the best way they can. Built with Spring (Java) and React Native"
