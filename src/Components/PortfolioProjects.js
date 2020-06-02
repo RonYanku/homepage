@@ -91,7 +91,7 @@ const PortfolioProjects = () => {
                   title = "Vision 2020"
                   description = "An Angular app that lets you create posts in lists for future reference."
                   github = "https://github.com/Visi0n2020"
-                  link = "https://vision-2020-ab267.firebaseapp.com/login"
+                  // link = "https://vision-2020-ab267.firebaseapp.com/login"
                   modal = "This app helps you save notes sorted by lists of subjects. Built with Angular and Node."
                   badges = {Vision2020Badges}
               />
