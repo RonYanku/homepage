@@ -13,6 +13,7 @@ function App() {
       <NavBar />
       <PortfolioTitle />
       <PortfolioAbout />
+      <PortfolioExperience />
       <PortfolioProjects />
       <PortfolioContact />
     </div>

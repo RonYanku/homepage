@@ -186,6 +186,28 @@ html {
   max-width: 600px;
 }
 
+#experience-section {
+  background-color: white;
+  width: 100%;
+}
+
+#experience-headline {
+  font-size: 3rem;
+}
+
+#experience-hr {
+  border-color: black;
+  max-width: 400px;
+}
+
+#experience-content {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  font-size: 1.2rem;
+  color: black;
+  max-width: 600px;
+}
+
 .about-logos {
   height: 30px;
 }
