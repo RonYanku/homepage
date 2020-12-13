@@ -6,6 +6,7 @@ import PortfolioTitle from './Components/PortfolioTitle'
 import PortfolioAbout from './Components/PortfolioAbout'
 import PortfolioContact from './Components/PortfolioContact'
 import PortfolioProjects from './Components/PortfolioProjects'
+import PortfolioExperience from './Components/PortfolioExperience'
 
 function App() {
   return (
