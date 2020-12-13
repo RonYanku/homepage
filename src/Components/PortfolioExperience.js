@@ -15,9 +15,6 @@ const PortfolioExperience = () => {
 
         <h1 className="display-4 text-center" id="experience-headline"><strong>Experience</strong></h1>
         <hr id="experience-hr"/>
-        <p>
-          I build full stack web applications using effective, minimalist designs.
-        </p>
         <br/>
         <h2><strong>Your Fare, Inc. (June 2020 - Present)</strong></h2>
         <h2>Junior Front End Developer</h2>
