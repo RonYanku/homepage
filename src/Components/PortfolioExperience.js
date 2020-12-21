@@ -20,7 +20,8 @@ const PortfolioExperience = () => {
         <h2>Junior Front End Developer</h2>
         <br/>
             <p>
-            Responsible for design, implementation and maintenance of applications with technologies such as Angular/Typescript/Bootstrap/HTML/CSS        
+            Responsible for design, implementation and maintenance of applications with technologies 
+            such as Angular, Typescript, Bootstrap, HTML, CSS        
             </p>
       </Container>
     </div>
