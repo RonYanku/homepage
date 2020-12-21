@@ -4,7 +4,7 @@ import Badge from 'react-bootstrap/Badge';
 
 const FrontendBadges = ["Angular", "React", "CSS3/HTML5", "Bootstrap"];
 const BackendBadges = ["Node", "Express", "Spring (Java)"];
-const OtherBadges = ["Javascript", "Java", "MongoDB",
+const OtherBadges = ["Typescript","Javascript", "Java", "MongoDB",
                     "PostgreSQL", "Firebase", "CI/CD", "Git"];
 
 const PortfolioAbout = () => {
