@@ -16,7 +16,7 @@ const PortfolioTitle = () => {
             <Container className="text-center" id="title-content">
               <h1 className="display-4">Ron Yanku</h1>
               <hr id="title-hr" />
-              <h1 className="display-4" id="tagline-text">Software Developer</h1>
+              <h1 className="display-4" id="tagline-text">Web Developer</h1>
             </Container>
           </div>
         </Parallax>
