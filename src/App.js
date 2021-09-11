@@ -15,7 +15,7 @@ function App() {
       <PortfolioTitle />
       <PortfolioAbout />
       <PortfolioExperience />
-      <PortfolioProjects />
+      {/* <PortfolioProjects /> */}
       <PortfolioContact />
     </div>
   )

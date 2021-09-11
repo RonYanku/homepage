@@ -33,6 +33,9 @@ body {
   text-align: center;
 }
 
+.bullt-point {
+  list-style-type: disc;
+}
 
 .title-done-btn {
     display: none;
@@ -186,10 +189,6 @@ html {
   max-width: 600px;
 }
 
-#experience-section {
-  background-color: white;
-  width: 100%;
-}
 
 #experience-headline {
   font-size: 3rem;
@@ -204,7 +203,7 @@ html {
   padding-top: 5rem;
   padding-bottom: 5rem;
   font-size: 1.2rem;
-  color: black;
+  color: white;
   max-width: 600px;
 }
 
