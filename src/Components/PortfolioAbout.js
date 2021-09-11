@@ -2,10 +2,9 @@ import React from 'react';
 import Container from 'react-bootstrap/Container';
 import Badge from 'react-bootstrap/Badge';
 
-const FrontendBadges = ["Angular", "React", "CSS3/HTML5", "Bootstrap"];
-const BackendBadges = ["Node", "Express", "Spring (Java)"];
-const OtherBadges = ["Typescript","Javascript", "Java", "MongoDB",
-                    "PostgreSQL", "Firebase", "CI/CD", "Git"];
+const FrontendBadges = ["Angular", "CSS/HTML", "Bootstrap"];
+const BackendBadges = [".Net", "Spring (Java)"];
+const OtherBadges = ["Typescript","Javascript", "C#", "Java", "SQL"];
 
 const PortfolioAbout = () => {
 
@@ -16,8 +15,8 @@ const PortfolioAbout = () => {
         <h1 className="display-4 text-center" id="about-headline"><strong>About Me</strong></h1>
         <hr id="about-hr"/>
         <p>
-        A self-driven junior web developer with professional experience in building applications from the ground up -
-information gathering, planning, design, development, testing and delivery and maintenance.
+        Self-driven full-stack developer (front-end oriented) with 1.5+ years of professional experience.
+Well-versed in a number of technologies and programming languages including Angular (Typescript) and .NET (C#).
         </p>
         <br/>
         <h2 className="text-center"><strong>Skills</strong></h2>
