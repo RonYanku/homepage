@@ -15,8 +15,8 @@ const PortfolioAbout = () => {
         <h1 className="display-4 text-center" id="about-headline"><strong>About Me</strong></h1>
         <hr id="about-hr"/>
         <p>
-        Self-driven full-stack developer (front-end oriented) with  professional experience in building web applications from the ground up.
-Well-versed in a number of technologies and programming languages including Angular (Typescript) and .NET (C#).
+        Self-driven front-end developer with professional experience in building web applications from the
+ground up. Well-versed in Angular.
         </p>
         <br/>
         <h2 className="text-center"><strong>Skills</strong></h2>
