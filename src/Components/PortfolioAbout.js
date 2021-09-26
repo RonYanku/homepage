@@ -3,8 +3,8 @@ import Container from 'react-bootstrap/Container';
 import Badge from 'react-bootstrap/Badge';
 
 const FrontendBadges = ["Angular", "CSS/HTML", "Bootstrap"];
-const BackendBadges = [".Net", "Spring (Java)"];
-const OtherBadges = ["Typescript","Javascript", "C#", "Java", "SQL"];
+const BackendBadges = ["C# .NET", ".NET CORE Web API", "EF Core"];
+const OtherBadges = ["Typescript","Javascript", "C#", "SQL Server"];
 
 const PortfolioAbout = () => {
 
