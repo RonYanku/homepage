@@ -38,13 +38,14 @@ const PortfolioExperience = () => {
         <h2>
           <strong>Project Verte (2021 - present)</strong>
         </h2>
-        <h2>Front-End Developer</h2>
+        <h2>Front End Developer</h2>
         <br />
 
         <ul  className="bullet-point">
-          <li>Was the main front end developer for an Angular web app tailor maid for a customer.</li>
-          <li>Responsible for front-end maintenance of multiple web apps. </li>
-          <li>Involved in adding new features to multiple web apps as a  Full-Stack developer using technologies such as: Angular, RxJS, Bootstrap, CSS/HTML on the front end, and .NET, LINQ, Entity Framework, and SQL Server on the back-end.</li>
+          <li>Was the main front end developer for a web app tailor maid for a customer using Angular.</li>
+          <li>Involved in adding new features to multiple web apps as a full-stack developer using technologies
+such as:  RxJS, Bootstrap, CSS/HTML, LINQ, Entity Framework, and SQL Server. </li>
+          <li>Responsible for maintenance of web applications with technologies such as Angular/Typescript/Bootstrap/HTML/CSS.</li>
         </ul>
 
         <br />
@@ -53,13 +54,13 @@ const PortfolioExperience = () => {
         <h2>
           <strong>Your Fare, Inc. (2020 - 2021)</strong>
         </h2>
-        <h2>Junior Front End Developer</h2>
+        <h2>Front End Developer</h2>
         <br />
 
         <ul  className="bullet-point">
-          <li> In charge of creating an Angular web app that significantly reduced the time needed to get a client on board the main service.</li>
-          <li> Assisted in the design and implementation process for new models/projects, informing the CTO and product manager of alternatives. </li>
-          <li>  Responsible for maintenance of web applications with technologies such as Angular/Typescript/Bootstrap/HTML/CSS.</li>
+          <li> In charge of planning, structuring and creating an Angular web app from scratch  that significantly reduced the time needed to get a client on board the main service.</li>
+          <li> Developed new features for the main product. </li>
+          <li> Responsible for maintenance of web applications with technologies such as Angular/Typescript/Bootstrap/HTML/CSS.</li>
         </ul>
 
       </Container>
