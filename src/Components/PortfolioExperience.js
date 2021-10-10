@@ -38,7 +38,7 @@ const PortfolioExperience = () => {
         <h2>
           <strong>Project Verte (2021 - present)</strong>
         </h2>
-        <h2>Front End Developer</h2>
+        <h2>Full Stack Developer</h2>
         <br />
 
         <ul  className="bullet-point">

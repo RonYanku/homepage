@@ -15,7 +15,7 @@ const PortfolioAbout = () => {
         <h1 className="display-4 text-center" id="about-headline"><strong>About Me</strong></h1>
         <hr id="about-hr"/>
         <p>
-        Self-driven front-end developer with professional experience in building web applications from the
+        Self-driven full stack developer with professional experience in building web applications from the
 ground up. Well-versed in Angular.
         </p>
         <br/>
