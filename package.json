@@ -15,7 +15,7 @@
     "react-icons": "^3.9.0",
     "react-parallax": "^3.0.3",
     "react-sanfona": "^1.5.0",
-    "react-scripts": "3.4.1"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
